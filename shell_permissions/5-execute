@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x hello | ls -l README.md | awk '{print $1}'
+chmod u+x hello
