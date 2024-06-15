@@ -1,2 +1,2 @@
-#!/bin/bash 
-Switch the user 
+#!/bin/bash
+Switch the user
