@@ -1,2 +1,2 @@
 #!/bin/bash
-Switch the user
+Switch the user to the user betty
